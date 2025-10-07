@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am invited as a Reviewer in CVPR 2026 ! :sparkles: :smile:
+I have been invited as a Reviewer in CVPR 2026 ! :sparkles: :smile:
