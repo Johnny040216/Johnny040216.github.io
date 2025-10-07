@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am invited as a Reviewer in CVPR 2026 ! emoji! :sparkles: :smile:
