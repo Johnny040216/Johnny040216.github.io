@@ -399,8 +399,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-invited-as-a-reviewer-in-cvpr-2026-emoji-sparkles-smile",
-          title: 'I am invited as a Reviewer in CVPR 2026 ! emoji! :sparkles: :smile:...',
+            },},{id: "news-i-am-invited-as-a-reviewer-in-cvpr-2026-sparkles-smile",
+          title: 'I am invited as a Reviewer in CVPR 2026 ! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
