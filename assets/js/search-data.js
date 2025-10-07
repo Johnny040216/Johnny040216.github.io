@@ -396,8 +396,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-mrfd-multi-region-fusion-decoding-with-self-consistency-for-mitigating-hallucinations-in-lvlms-is-accepted-to-emnlp-2025",
-          title: '“MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs” is accepted...',
+            },},{id: "news-mrfd-multi-region-fusion-decoding-with-self-consistency-for-mitigating-hallucinations-in-lvlms-has-been-accepted-to-emnlp-2025",
+          title: '“MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs” has been...',
           description: "",
           section: "News",},{id: "news-i-have-been-invited-as-a-reviewer-in-cvpr-2026-sparkles-smile",
           title: 'I have been invited as a Reviewer in CVPR 2026 ! :sparkles: :smile:...',
