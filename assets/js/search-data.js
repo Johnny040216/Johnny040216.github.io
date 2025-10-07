@@ -396,11 +396,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-invited-as-a-reviewer-in-cvpr-2026-sparkles-smile",
-          title: 'I am invited as a Reviewer in CVPR 2026 ! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-mrfd-multi-region-fusion-decoding-with-self-consistency-for-mitigating-hallucinations-in-lvlms-is-accepted-to-emnlp-2025",
+            },},{id: "news-mrfd-multi-region-fusion-decoding-with-self-consistency-for-mitigating-hallucinations-in-lvlms-is-accepted-to-emnlp-2025",
           title: '“MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs” is accepted...',
+          description: "",
+          section: "News",},{id: "news-i-am-invited-as-a-reviewer-in-cvpr-2026-sparkles-smile",
+          title: 'I am invited as a Reviewer in CVPR 2026 ! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
