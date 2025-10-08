@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three Paper have been submitted to ICLR 2026 !
+Three Paper have been submitted to [ICLR 2026](https://iclr.cc/) !
