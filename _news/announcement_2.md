@@ -1,7 +1,7 @@
 ---
-layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+layout: posts;ity
+title: I start a Summer Research Intern in UCI and Rice University
+date: 2025-06-25 16:11:00-0400
 inline: false
 related_posts: false
 ---
