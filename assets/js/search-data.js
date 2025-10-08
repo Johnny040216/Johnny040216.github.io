@@ -392,7 +392,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-start-a-summer-research-intern-in-uci-and-rice-university",
-          title: 'I start a Summer Research Intern in UCI and Rice University',
+          title: 'I start a Summer Research Intern in UCI and Rice University.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
