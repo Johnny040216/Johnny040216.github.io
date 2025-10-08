@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-start-a-summer-research-intern-in-uci-and-rice-university",
+          title: 'I start a Summer Research Intern in UCI and Rice University',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
