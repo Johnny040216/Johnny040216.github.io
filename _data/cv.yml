@@ -45,7 +45,8 @@
       description:
         - Advisor: Hanjie Chen
         - Project: SportR: A Benchmark for Multimodal LLM Reasoning in Sports (ICLR 2026, submitted, Co-First Author)
-- title: Service
+        
+- title: Services
   type: time_table
   contents:
     - title: Reviewer
