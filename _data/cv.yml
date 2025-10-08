@@ -9,7 +9,6 @@
 - title: Education
   type: time_table
   contents:
-
     - title: Bachelor in Electrical & Computer Engineering 
       institution: Southeast University
       year: 2022.09 - 2026.06
@@ -21,7 +20,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assitant
+    - title: Research Assistant
       institution: The University of Queensland
       year: 2025.02 - Present
       description:
@@ -29,20 +28,20 @@
         - Project: MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs (EMNLP 2025; First Author)
         - Project: FrameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning (ICLR 2026, under review; First Author)
         
-    - title: Research Assitant
+    - title: Research Assistant
       institution: University of California, Merced
       year: 2025.02 - Present
       description:
         - Advisor: Yiwei Wang
         
-    - title: Research Assitant
+    - title: Research Assistant
       institution: University of California, Irvine
       year: 2025.06 - 2025.09
       description:
         - Advisor: Weining Shen
         - Project: SportR: A Benchmark for Multimodal LLM Reasoning in Sports (ICLR 2026, submitted, Co-First Author)
         
-    - title: Research Assitant
+    - title: Research Assistant
       institution: Rice University
       year: 2025.06 - 2025.09
       description:
@@ -55,5 +54,3 @@
     - title: Reviewer
       institution: <a href="https://cvpr.thecvf.com/">CVPR 2026</a>
       year: 2025
-
-        
