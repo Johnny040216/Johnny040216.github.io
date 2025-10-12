@@ -1,24 +1,25 @@
-  <div class="visitor-map">
-    <center>
-      <div align="center" style="width:18%">
-          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t2dkks0uIF0R5u8RBKeGpX4oHApmvXUvopaA7qOvNJE"></script>
-      </div>
-    </center>
-  </div>
-  
-  <div class="copyright">
-    <center>
-      <p style="color: darkgray;"> © Haonan Ge {{ site.time | date: '%Y' }}</p>
-    </center>
-  </div>
-  
-  {{ site.footer_text }}
-  {% if site.impressum_path %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-  {% endif %}
-  {% if site.last_updated %}
-    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
-  {% endif %}
+{% capture footer_contents %}
+<div class="visitor-map">
+  <center>
+    <div align="center" style="width:18%">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9jPs65bE0s3WTRPAfoFYygNJNNAXtdMacqRNRsh4igM"></script>
+    </div>
+  </center>
+</div>
+
+<div class="copyright">
+  <center>
+    <p style="color: darkgray;"> © Haonan Ge {{ site.time | date: '%Y' }}</p>
+  </center>
+</div>
+
+{{ site.footer_text }}
+{% if site.impressum_path %}
+  <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+{% endif %}
+{% if site.last_updated %}
+  Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+{% endif %}
 {% endcapture %}
 
 {% if site.footer_fixed %}
