@@ -76,5 +76,19 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+    <!-- Visitor Map and Copyright -->
+    <div class="visitor-map">
+      <center>
+        <div align="center" style="width:18%">
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t2dkks0uIF0R5u8RBKeGpX4oHApmvXUvopaA7qOvNJE"></script>
+        </div>
+      </center>
+    </div>
+
+    <div class="copyright">
+      <center>
+        <p style="color: darkgray;"> © Haonan Ge {{ site.time | date: '%Y' }}</p>
+      </center>
+    </div>
   </article>
 </div>
