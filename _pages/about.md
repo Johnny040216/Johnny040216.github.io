@@ -25,19 +25,4 @@ Hi, I am Haonan Ge (葛浩南) 👋, a senior undergraduate student at [Southeas
 
 Previously, I was a visiting student at [University of California, Irvine](https://uci.edu/), working with [Prof. Weining Shen](https://faculty.sites.uci.edu/weinings/) as a Research Intern. And I also co-led a vision-language model in sports-benchmark and reinforcement learning project with [Prof. Hanjie Chen](https://hanjiechen.github.io/index.html) at the [Chili Lab](https://hanjiechen.github.io/group.html), [Rice University](https://www.rice.edu/).
 
----
-
-<div class="visitor-map">
-  <center>
-    <div align="center" style="width:18%">
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9jPs65bE0s3WTRPAfoFYygNJNNAXtdMacqRNRsh4igM"></script>
-    </div>
-  </center>
-</div>
-
-<div class="copyright">
-  <center>
-    <p style="color: darkgray;"> © Haonan Ge {{ site.time | date: '%Y' }}</p>
-  </center>
-</div>
 
