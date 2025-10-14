@@ -28,8 +28,8 @@ Previously, I was a visiting student at [University of California, Irvine](https
 My research interests lie in the algorithmic foundations of reasoning in multimodal large language models (MLLMs) and agentic reinforcement learning, with a focus on adaptive perception, tool-augmented planning-and-acting loops, and trustworthy, interpretable decision-making across images, video, and text. <span style="color:#dc2626">I am actively seeking a Ph.D. position beginning in Fall 2026! Feel free to email me if you are interested.</span>
 
 **Email:** [gehaonan82@gmail.com](gehaonan82@gmail.com)
-<div class="cv-download" style="text-align: center; margin-top: 2rem;">
-  <a href="/assets/pdf/cv.pdf" class="btn btn-primary btn-lg" style="background-color: #007bff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block;">
+<div class="cv-download" style="text-align: left; margin-top: 2rem;">
+  <a href="/assets/pdf/cv.pdf" class="btn btn-primary btn-lg" style="background-color: #AD33AB; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block;">
     📄 CV
   </a>
 </div>
