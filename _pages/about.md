@@ -29,7 +29,7 @@ My research interests lie in the algorithmic foundations of reasoning in multimo
 
 **Email:** [gehaonan82@gmail.com](gehaonan82@gmail.com)
 <div class="cv-download" style="text-align: center; margin-top: 0.5rem;">
-  <a href="/assets/pdf/cv.pdf" class="btn btn-primary btn-lg" style="background-color: #AD33AB; color: white; padding: 8px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">
+  <a href="/assets/pdf/CV.pdf" class="btn btn-primary btn-lg" style="background-color: #AD33AB; color: white; padding: 8px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">
     📄 Download CV
   </a>
 </div>
