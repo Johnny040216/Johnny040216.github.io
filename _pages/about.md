@@ -32,6 +32,7 @@ Previously, I was a visiting student at [University of California, Irvine](https
 
 - **Agentic Reinforcement Learning and Adaptive Perception**  
   I explore agentic reinforcement learning for adaptive perception and tool-augmented planning-and-acting loops, aiming to build efficient and scalable decision-making agents.
+  
 <span style="color:#dc2626">I am actively seeking a Ph.D. position beginning in Fall 2026! Feel free to email me if you are interested.</span>
 
 **Email:** [gehaonan82@gmail.com](gehaonan82@gmail.com)
