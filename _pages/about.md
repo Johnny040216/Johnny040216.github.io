@@ -27,11 +27,13 @@ Previously, I was a visiting student at [University of California, Irvine](https
 
 **Research Interests**
 
-- **Multimodal Reasoning Foundations**  
-  I study the algorithmic foundations of reasoning in multimodal large language models, focusing on trustworthy and interpretable decision-making grounded in perceptual evidence.
+- **Faithful Multimodal Intelligence and World Modeling**  
+  I aim to develop general-purpose multimodal foundation models that learn physical laws and world dynamics from large-scale unlabeled video data. My research focuses on enabling faithful multimodal intelligence, where models reason about object properties, long-term dynamics, and interactions by grounding their decisions in perceptual evidence rather than language priors.
 
-- **Agentic Reinforcement Learning and Adaptive Perception**  
-  I explore agentic reinforcement learning for adaptive perception and tool-augmented planning-and-acting loops, aiming to build efficient and scalable decision-making agents.
+- **Scalable Multimodal Action Reasoning and Agents**  
+  I explore interpretable, controllable, and scalable AI systems that integrate images, video, audio, and action signals. By studying non-textual chains-of-thought reasoning and extracting human and robotic action knowledge from large-scale video data, my goal is to develop intelligent agentic software that enhances productivity in domains such as filmmaking, musicmaking, and design.
+
+
   
 <span style="color:#dc2626">I am actively seeking a Ph.D. position beginning in Fall 2026! Feel free to email me if you are interested.</span>
 
